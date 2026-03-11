@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/plugins/
+.obsidian/themes/
+
+# Claude Code local settings (contains permissions with local paths)
+.claude/settings.local.json
+
+# Copyrighted content - sources (verbatim quotes) and summaries
+**/sources/
+**/summaries/
+
+# Original ebook and full-text markdown
+*.epub
+*.pdf
+*.mobi
+Naval-Ravikant-Almanack.md
+
+# Personal notes
+mentor-vault-guide.md
+
+# Sessions and Insights (personal)
+Sessions/
+Insights/
